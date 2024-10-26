@@ -1,0 +1,6 @@
+{
+    "protoc" : {
+        "editor.formatOnSave": true,
+        "clang-format.language.proto.style": "Google",
+    },
+}
